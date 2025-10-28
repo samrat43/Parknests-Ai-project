@@ -1,0 +1,7 @@
+{
+  "name": "Parknests - AI Parking Assistant",
+  "description": "A modern web application that allows users to discover, book, and host parking spaces with real-time availability and AI-powered predictions. This prototype simulates the core functionalities of a parking marketplace like YourParkingSpace.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
